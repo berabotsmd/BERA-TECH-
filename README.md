@@ -10,7 +10,7 @@
 <img src="https://i.ibb.co/ZHn1Xd1/IMG-20240802-WA0019.jpg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{berabotsmd}/count.svg" alt="berabotsmd :: Visitor's Count" /></p>
 <p align="center">
-<a href="https://github.com/berabotsmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/DeeCeeXxx?color=red&style=flat-square"></a>
+<a href="https://github.com/berabotsmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/berabotsmd?color=red&style=flat-square"></a>
 <a href="https://github.com/berabotsmd/BERA-TECH-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/berabotsmd/BERA-TECH-?color=blue&style=flat-square"></a>
 <a href="https://github.com/berabotsmd/BERA-TECH-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/berabotsmd/BERA-TECH-?color=red&style=flat-square"></a>
 <a href="https://github.com/berabotsmd/BERA-TECH-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/berabotsmd/BERA-TECH-?label=Watchers&color=blue&style=flat-square"></a>
@@ -88,7 +88,7 @@
 <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/Alphatrex"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
+<img alt="Development" width="250" src="https://i.ibb.co/HtT3vjm/goku-gif-3.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # 
 
