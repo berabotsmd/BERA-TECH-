@@ -33,13 +33,13 @@
 
 ### SERVER 1
  
-<a href="https://david-session-l7iq.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://david-session-2-94sq.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 
 ### SERVER 2 
 ### GET SESSION ID HERE
 
-<a href="https://david-session-l7iq.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://david-session-2-94sq.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 ### **PLEASE PICK RANDOMLY DON'T SPAM A PARTICULAR SERVER**
 
