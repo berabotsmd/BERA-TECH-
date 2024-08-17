@@ -1,7 +1,7 @@
 {
     "name": "BERA-TECH-",
     "description": "Simple WhatsApp Bot",
-    "logo": "https://i.imgur.com/H4qeXwa.jpeg",
+    "logo": "https://i.ibb.co/ZHn1Xd1/IMG-20240802-WA0019.jpg",
     "keywords": ["berabotsmd", "BERA-TECH-", "BERA-TECH-"],
     "success_url": "/",
     "stack": "container",
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg",
+        "value": "https://i.ibb.co/HtT3vjm/goku-gif-3.gif",
         "required": false
       },
   
@@ -35,7 +35,7 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg"
+        "value": "https://i.ibb.co/HtT3vjm/goku-gif-3.gif"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
